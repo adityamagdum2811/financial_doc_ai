@@ -1,4 +1,4 @@
-#  Financial Document Management API
+#  Financial Document AI (FastAPI + RAG + JWT Auth)
 
 ##  Overview
 This project is a FastAPI-based Financial Document Management System with Semantic Search and Role-Based Access Control (RBAC).
