@@ -34,5 +34,13 @@ It allows users to:
 -  FastAPI with Swagger UI
 
 ---
+##  How to Run
 
-##  Project Structure
+1. Install dependencies:
+pip install -r requirements.txt
+
+2. Run server:
+uvicorn app.main:app --reload
+
+3. Open browser:
+http://127.0.0.1:8000/docs
