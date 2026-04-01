@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+python-multipart
+pydantic
+pydantic-settings
+sentence-transformers
+chromadb
+pypdf
+python-docx
+rank-bm25
